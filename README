@@ -1,0 +1,4 @@
+Welcome to the readme file of AES-Python-Cipher.
+
+This is a simple program written in python 2.7.x that is used
+to encrypt a short string in AES-256 cipher.
